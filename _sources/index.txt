@@ -1,0 +1,53 @@
+.. toctree::
+   :hidden:
+
+   advice
+   schedule
+   syllabus
+   tools/index
+
+Home
+####
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Spring 2016</h3>
+
+----
+
+This course teaches the basic elements found in a formal logic including
+syntax for claims and rules for making deductions, as well as on how to 
+judge if the rules are suitable in the sense that they only lead to claims
+that match the reality of the domain that are being reasoned.
+The focus will be on formal logics for reasoning about program behavior and
+for programming directly in terms of logic.
+    
+==================================================  ====================================================================
+**Lectures**                                        T U 11:05am - 12:20pm, Durland Hall, DU 1073
+**Instructor**                                      `John Hatcliff Hatcliff <http://people.cis.ksu.edu/~hatcliff>`__,
+                                                    Office:       Engineering Hall 2160
+                                                    Office Hours: 12:20-12:45pm Tue/Thu, 2:30-3:30pm Wed
+                                                    E-mail:       ``hatcliff ++ k-state.edu`` (replace ++ with @)
+**Teaching Assistant**                              Varun Varshney
+                                                    Office: (tba),
+                                                    Office Hours: (tba) (or by appointment),
+                                                    E-mail:       ``varshney at k-state.edu``
+**Teaching Assistant**                              Zhi Zhang,
+                                                    Office: (tba),
+                                                    Office Hours: (tba) (or by appointment),
+                                                    E-mail:       ``zhangzhi at k-state.edu``
+**Help E-mail** (*for appointments and questions*)  ``help-301 at santoslab.org``
+                         
+==================================================  ====================================================================
+
+----
+
+* :ref:`syllabus`
+
+* :ref:`advice` (must read!)
+
+* :ref:`schedule`
+
+* `Course Notes <http://logika.sireum.org/dschmidt>`__
+
+* :ref:`tools`

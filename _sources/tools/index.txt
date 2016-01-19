@@ -1,0 +1,79 @@
+.. _tools:
+
+Tools
+#####
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Spring 2016</h3>
+
+.. include:: ../def.rst
+
+----
+
+
+Remote Desktop
+**************
+
+You can access CIS Windows machine remotely via remote desktop to 
+``remote.win.cis.ksu.edu``.
+You need to use a remote desktop software specific to your OS (e.g.,
+`win <http://apps.microsoft.com/windows/en-us/app/remote-desktop/051f560e-5e9b-4dad-8b2e-fa5e0b05a480>`__, 
+`linux <http://rdesktop.sourceforge.net/>`__, 
+`mac <https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417>`__).
+
+Note that if you are accessing ``remote.win.cis.ksu.edu`` from off-campus, you
+will need to use K-State VPN software (http://www.k-state.edu/its/security/vpn/)
+before connecting to it.
+
+
+Z3 SMT Prover
+*************
+Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
+developed at the Research in Software Engineering (RiSE) group in Microsoft
+Research.
+
+* `Website <https://github.com/z3prover/z3/wiki>`__
+
+* `Introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
+
+* `Online version <http://rise4fun.com/z3>`__
+
+* Offline (64-bit) version is included in Sireum Logika (see below);
+  it can be found under ``sireum-v3/apps/z3`` once Logika is installed.
+
+
+Sireum Logika
+*************
+
+http://logika.sireum.org
+
+Logika is a natural deduction proof checker for propositional, predicate, and programming
+logics developed by |Robby|.
+We will use Logika for most of the part of the course.
+
+
+Alloy Modeling Language and Constraint Analyzer
+***********************************************
+
+Alloy is a language for modeling class/object-oriented structures and relations
+between those structures (in some sense, it is analogous to UML class diagrams,
+but it is semantically cleaner).
+One can use Alloy to abstractly model a variety of systems.
+Alloy includes a constraint language based on predicate logic that can be used
+to specify properties/constraints on Alloy structures.
+Alloy's Constraint Analyzer can automatically analyze constraints to, e.g.,
+find example structures that satisfy the constraints or determine if
+the constraints hold for all possible structures that match the given class
+declarations.
+
+We will use Alloy to help learn the meaning of propositional and predicate
+logic.
+In particular, we will focus on gaining a strong intuitive understanding of the
+meaning of propositional connectives (and, or, not, implies) and universal and
+existential quantifiers from predicate logic.
+
+* `Web page <http://alloy.mit.edu/alloy/>`__
+* `Tutorial <http://alloy.mit.edu/alloy/tutorials/online/>`__
+* `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
+

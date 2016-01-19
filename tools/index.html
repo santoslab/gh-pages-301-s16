@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Tools &mdash; CIS 301: Logical Foundations of Programming, Spring 2016</title>
+    
+    <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/bootswatch-3.3.4/journal/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/cis501.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full"></script>
+    <script type="text/javascript" src="../_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="../_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-3.3.4/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-sphinx.js"></script>
+    <link rel="top" title="CIS 301: Logical Foundations of Programming, Spring 2016" href="../index.html" />
+    <link rel="prev" title="Syllabus" href="../syllabus.html" />
+  </head>
+  <body role="document">
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../index.html">
+          Home</a>
+        <span class="navbar-text navbar-version pull-left"><b></b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            
+                <li><a href="../syllabus.html">Syllabus</a></li>
+                <li><a href="../advice.html">Advice</a></li>
+                <li><a href="../schedule.html">Schedule</a></li>
+                <li><a href="http://logika.sireum.org/dschmidt">Notes</a></li>
+                <li><a href="#">Tools</a></li>
+            
+            
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="../index.html"> <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"></ul>
+</li>
+              
+            
+            
+            
+            
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="../search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 content">
+      
+  <div class="section" id="tools">
+<span id="id1"></span><h1>Tools<a class="headerlink" href="#tools" title="Permalink to this headline">¶</a></h1>
+<h3>CIS 301: Logical Foundations of Programming, Spring 2016</h3><hr class="docutils" />
+<div class="section" id="remote-desktop">
+<h2>Remote Desktop<a class="headerlink" href="#remote-desktop" title="Permalink to this headline">¶</a></h2>
+<p>You can access CIS Windows machine remotely via remote desktop to
+<code class="docutils literal"><span class="pre">remote.win.cis.ksu.edu</span></code>.
+You need to use a remote desktop software specific to your OS (e.g.,
+<a class="reference external" href="http://apps.microsoft.com/windows/en-us/app/remote-desktop/051f560e-5e9b-4dad-8b2e-fa5e0b05a480">win</a>,
+<a class="reference external" href="http://rdesktop.sourceforge.net/">linux</a>,
+<a class="reference external" href="https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417">mac</a>).</p>
+<p>Note that if you are accessing <code class="docutils literal"><span class="pre">remote.win.cis.ksu.edu</span></code> from off-campus, you
+will need to use K-State VPN software (<a class="reference external" href="http://www.k-state.edu/its/security/vpn/">http://www.k-state.edu/its/security/vpn/</a>)
+before connecting to it.</p>
+</div>
+<div class="section" id="z3-smt-prover">
+<h2>Z3 SMT Prover<a class="headerlink" href="#z3-smt-prover" title="Permalink to this headline">¶</a></h2>
+<p>Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
+developed at the Research in Software Engineering (RiSE) group in Microsoft
+Research.</p>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/z3prover/z3/wiki">Website</a></li>
+<li><a class="reference external" href="https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver">Introductory video</a></li>
+<li><a class="reference external" href="http://rise4fun.com/z3">Online version</a></li>
+<li>Offline (64-bit) version is included in Sireum Logika (see below);
+it can be found under <code class="docutils literal"><span class="pre">sireum-v3/apps/z3</span></code> once Logika is installed.</li>
+</ul>
+</div>
+<div class="section" id="sireum-logika">
+<h2>Sireum Logika<a class="headerlink" href="#sireum-logika" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://logika.sireum.org">http://logika.sireum.org</a></p>
+<p>Logika is a natural deduction proof checker for propositional, predicate, and programming
+logics developed by <a class="reference external" href="http://people.cis.ksu.edu/~robby">Robby</a>.
+We will use Logika for most of the part of the course.</p>
+</div>
+<div class="section" id="alloy-modeling-language-and-constraint-analyzer">
+<h2>Alloy Modeling Language and Constraint Analyzer<a class="headerlink" href="#alloy-modeling-language-and-constraint-analyzer" title="Permalink to this headline">¶</a></h2>
+<p>Alloy is a language for modeling class/object-oriented structures and relations
+between those structures (in some sense, it is analogous to UML class diagrams,
+but it is semantically cleaner).
+One can use Alloy to abstractly model a variety of systems.
+Alloy includes a constraint language based on predicate logic that can be used
+to specify properties/constraints on Alloy structures.
+Alloy&#8217;s Constraint Analyzer can automatically analyze constraints to, e.g.,
+find example structures that satisfy the constraints or determine if
+the constraints hold for all possible structures that match the given class
+declarations.</p>
+<p>We will use Alloy to help learn the meaning of propositional and predicate
+logic.
+In particular, we will focus on gaining a strong intuitive understanding of the
+meaning of propositional connectives (and, or, not, implies) and universal and
+existential quantifiers from predicate logic.</p>
+<ul class="simple">
+<li><a class="reference external" href="http://alloy.mit.edu/alloy/">Web page</a></li>
+<li><a class="reference external" href="http://alloy.mit.edu/alloy/tutorials/online/">Tutorial</a></li>
+<li><a class="reference external" href="https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c">Alloy Quick References</a></li>
+</ul>
+</div>
+</div>
+
+
+    </div>
+      
+  </div>
+</div>
+
+  </body>
+</html>
