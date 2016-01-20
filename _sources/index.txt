@@ -28,13 +28,13 @@ for programming directly in terms of logic.
                                                     Office:       Engineering Hall 2160
                                                     Office Hours: 12:20-12:45pm Tue/Thu, 2:30-3:30pm Wed
                                                     E-mail:       ``hatcliff ++ k-state.edu`` (replace ++ with @)
-**Teaching Assistant**                              Varun Varshney
-                                                    Office: (tba),
-                                                    Office Hours: (tba) (or by appointment),
-                                                    E-mail:       ``varshney at k-state.edu``
+**Teaching Assistant**                              Hariharan Thiagarajan
+                                                    Office:
+                                                    Office Hours: (tba)
+                                                    E-mail:       ``thari at k-state.edu``
 **Teaching Assistant**                              Zhi Zhang,
                                                     Office: (tba),
-                                                    Office Hours: (tba) (or by appointment),
+                                                    Office Hours: 8-10am Wed (or by appointment),
                                                     E-mail:       ``zhangzhi at k-state.edu``
 **Help E-mail** (*for appointments and questions*)  ``help-301 at santoslab.org``
                          
