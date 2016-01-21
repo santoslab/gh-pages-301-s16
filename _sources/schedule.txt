@@ -33,10 +33,7 @@ Schedule
    * - 1. U: Jan 21
      - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B3opDhlww1AXRm80bmZXaFlOdTQ>`__
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
-       * Homework #1 (**due on Jan 29, 2015 at 11:55pm US Central**)
-       * Tutorial: `K-State Online <https://drive.google.com/open?id=0B3opDhlww1AXRzZPN2xYOGNfX1U>`__
-       * Exercise
-       * FYTDs
+       * Homework #1 (**due on Jan 29, 2015 at 11:55pm US Central**) (note: the homework will be announced/posted Thurs evening or Friday)
    * - 2. T: Jan 26
      - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMDNPTUdBMmp5c1E>`__
      - * Reading: Material from `Logic in Action <http://www.logicinaction.org>`__ .
@@ -47,7 +44,6 @@ Schedule
    * - 2. U: Jan 28
      - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXT0RkVHBEWHVldjA>`__
      - * Reading:
-
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
        * Exercise
@@ -57,7 +53,6 @@ Schedule
      - * Watch: `Z3's introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
        * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3. Propositional Logic)
-       * Tutorial: `Z3 (offline) installation <https://drive.google.com/open?id=0B3opDhlww1AXcHlXYWxqUGR6THc>`__ 
    * - 3. U: Feb 4
      - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B3opDhlww1AXT1hocFRDcGIxczg>`__
          [`example <https://github.com/sireum/v3-logika-examples/blob/master/src/propositional/intro-nat-ded.logika>`__]
