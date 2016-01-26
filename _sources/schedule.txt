@@ -47,6 +47,8 @@ Schedule
 
           * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
           * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
+       * Study Guide: `NatDed--Intro-to-Prop-Logic--study-guide.txt <https://drive.google.com/open?id=0B2v9RmdjXXbUendDOGFvbXZ3c2c>`__
+       * Lecture Recording: `NatDed--Intro-to-Prop-Logic.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUNUd0QUVuaGJ0ckk>`__
    * - 2. U: Jan 28
      - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXT0RkVHBEWHVldjA>`__
      - * Reading:
