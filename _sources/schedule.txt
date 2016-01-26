@@ -33,7 +33,13 @@ Schedule
    * - 1. U: Jan 21
      - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B3opDhlww1AXRm80bmZXaFlOdTQ>`__
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
-       * Homework #1 (**due on Jan 29, 2015 at 11:55pm US Central**) (note: the homework will be announced/posted Thurs evening or Friday)
+       * Answers to lecture FYTD Exercises:
+
+          * `FYTD #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUVUdQWXVMZThSalk>`__
+          * `FYTD #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUNTltZ3UtSkp2QkU>`__
+       * Study Guide: `Intro--01-Circuits-and-Truth-Tables--study-guide.txt <https://drive.google.com/open?id=0B2v9RmdjXXbUbXRWV1VFUXpwd28>`__
+       * Homework #1 -- **due on Jan 29, 2015 at 11:55pm US Central** -- Assignment posted at K-State Online
+
    * - 2. T: Jan 26
      - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMDNPTUdBMmp5c1E>`__
      - * Reading: Material from `Logic in Action <http://www.logicinaction.org>`__ .
