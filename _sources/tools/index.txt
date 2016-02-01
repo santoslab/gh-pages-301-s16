@@ -52,6 +52,20 @@ Logika is a natural deduction proof checker for propositional, predicate, and pr
 logics developed by |Robby|.
 We will use Logika for most of the part of the course.
 
+`Logika <http://logika.sireum.org/doc/01-getting-started/>`__
+and its
+`IntelliJ-based Integrated Verification Environment (LIVE) <http://logika.sireum.org/doc/02-live/>`__
+are installed in ``remote.win.ksu.edu``.
+Sireum v3 is installed in ``C:\sireum-v3`` and
+``IntelliJ IDEA Community Edition 15.0.3`` (with Scala plugin and Sireum v3 plugin)
+is accessible through the Windows Start menu's ``JetBrains`` folder.
+
+They are also available in CIS Linux labs.
+Sireum v3 is installed in ``/research/santos/sireum-v3`` and
+IntelliJ is installed in ``/research/plgroup/idea-IC-15.0.3``.
+To run IntelliJ in CIS Linux labs: ``/research/plgroup/idea-IC-15.0.3/bin/idea.sh``.
+
+CIS administrators are in the process of installing Logika in the CIS labs.
 
 Alloy Modeling Language and Constraint Analyzer
 ***********************************************
