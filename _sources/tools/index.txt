@@ -62,8 +62,8 @@ is accessible through the Windows Start menu's ``JetBrains`` folder.
 
 They are also available in CIS Linux labs.
 Sireum v3 is installed in ``/research/santos/sireum-v3`` and
-IntelliJ is installed in ``/research/plgroup/idea-IC-15.0.3``.
-To run IntelliJ in CIS Linux labs: ``/research/plgroup/idea-IC-15.0.3/bin/idea.sh``.
+IntelliJ is installed in ``/research/santos/idea-IC-15.0.3``.
+To run IntelliJ in CIS Linux labs: ``/research/santos/idea-IC-15.0.3/bin/idea.sh``.
 
 CIS administrators are in the process of installing Logika in the CIS labs.
 
