@@ -64,13 +64,11 @@ Schedule
        * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3. Propositional Logic)
    * - 3. U: Feb 4
-     - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B3opDhlww1AXT1hocFRDcGIxczg>`__
+     - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B2v9RmdjXXbUek9kaWNvVjFJbmc>`__
          [`example <https://github.com/sireum/v3-logika-examples/blob/master/src/propositional/intro-nat-ded.logika>`__]
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXdGEzWDRodVZsaHc>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/and>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
-       * Tutorial: `Symbolic-Logic Natural Deduction Proof Checker <https://drive.google.com/open?id=0B3opDhlww1AXbUFZaDZYYWc0VXM>`__
-       * Exercise
    * - 4. T: Feb 9
      - * `Natural Deduction -- Or <https://drive.google.com/open?id=0B3opDhlww1AXeWo5MVJSV25sZW8>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/or>`__]
