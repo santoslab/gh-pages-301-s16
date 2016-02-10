@@ -55,7 +55,13 @@ Schedule
 
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
-       * Exercise
+       * Answers to lecture FYTD Exercises:
+
+         * `FYTD #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUdjRzV0ZLUUhIcXM>`__
+         * `FYTD #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUem9Cdnh4ZzNVb2c>`__
+         * `FYTD #3 <https://drive.google.com/open?id=0B2v9RmdjXXbUblZBTDZIQm1YcGM>`__
+         * `FYTD #4 <https://drive.google.com/open?id=0B2v9RmdjXXbUb0tkTXJaSzJaNE0>`__
+         * `FYTD #5 <https://drive.google.com/open?id=0B2v9RmdjXXbUOC1SZTNYYllSQm8>`__
        * Homework #2 -- **due on Monday, Feb 8, 2016 at 11:55pm US Central** -- Assignment posted at K-State Online
    * - 3. T: Feb 2
      - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUUm9VZ2RFZV8zMFU>`__
