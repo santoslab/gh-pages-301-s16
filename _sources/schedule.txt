@@ -58,10 +58,6 @@ Schedule
        * Answers to lecture FYTD Exercises:
 
          * `FYTD #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUdjRzV0ZLUUhIcXM>`__
-         * `FYTD #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUem9Cdnh4ZzNVb2c>`__
-         * `FYTD #3 <https://drive.google.com/open?id=0B2v9RmdjXXbUblZBTDZIQm1YcGM>`__
-         * `FYTD #4 <https://drive.google.com/open?id=0B2v9RmdjXXbUb0tkTXJaSzJaNE0>`__
-         * `FYTD #5 <https://drive.google.com/open?id=0B2v9RmdjXXbUOC1SZTNYYllSQm8>`__
        * Homework #2 -- **due on Monday, Feb 8, 2016 at 11:55pm US Central** -- Assignment posted at K-State Online
    * - 3. T: Feb 2
      - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUUm9VZ2RFZV8zMFU>`__
@@ -69,6 +65,13 @@ Schedule
      - * Watch: `Z3's introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
        * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3. Propositional Logic)
+       * Answers to lecture FYTD Exercises:
+
+         * `FYTD #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUN1J4a3hrVUF0VnM>`__
+         * `FYTD #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUem9Cdnh4ZzNVb2c>`__
+         * `FYTD #3 <https://drive.google.com/open?id=0B2v9RmdjXXbUblZBTDZIQm1YcGM>`__
+         * `FYTD #4 <https://drive.google.com/open?id=0B2v9RmdjXXbUb0tkTXJaSzJaNE0>`__
+         * `FYTD #5 <https://drive.google.com/open?id=0B2v9RmdjXXbUOC1SZTNYYllSQm8>`__
    * - 3. U: Feb 4
      - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B2v9RmdjXXbUek9kaWNvVjFJbmc>`__
          [`example <https://github.com/sireum/v3-logika-examples/blob/master/src/propositional/intro-nat-ded.logika>`__]
@@ -87,7 +90,7 @@ Schedule
          * `FYTD #1 Problem #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUcDJXbHlXTGs4NHM>`__
          * `FYTD #1 Problem #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUN21YMFZDN0ZqX1k>`__
          * `FYTD #1 Problem #3 <https://drive.google.com/open?id=0B2v9RmdjXXbUdEp1eWRyRnV0SDQ>`__
-
+       * Homework #3 -- **due on Tuesday, Feb 16, 2016 at 11:55pm US Central** -- Assignment posted at K-State Online
    * - 4. U: Feb 11
      - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXOGVyYmNSYmFxd00>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/implies>`__]
