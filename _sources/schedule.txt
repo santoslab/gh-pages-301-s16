@@ -69,11 +69,19 @@ Schedule
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXdGEzWDRodVZsaHc>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/and>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
+       * Answers to lecture FYTD Exercises:
+
+         * `FYTD #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUNnJyVW9RZ0Zfc28>`__
    * - 4. T: Feb 9
      - * `Natural Deduction -- Or <https://drive.google.com/open?id=0B2v9RmdjXXbUaUdneFFHVmF1UlE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/or>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
-       * Exercise
+       * Answers to lecture FYTD Exercises:
+
+         * `FYTD #1 Problem #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUcDJXbHlXTGs4NHM>`__
+         * `FYTD #1 Problem #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUN21YMFZDN0ZqX1k>`__
+         * `FYTD #1 Problem #3 <https://drive.google.com/open?id=0B2v9RmdjXXbUdEp1eWRyRnV0SDQ>`__
+
    * - 4. U: Feb 11
      - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXOGVyYmNSYmFxd00>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/implies>`__]
