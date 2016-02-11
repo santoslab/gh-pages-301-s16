@@ -92,7 +92,7 @@ Schedule
          * `FYTD #1 Problem #3 <https://drive.google.com/open?id=0B2v9RmdjXXbUdEp1eWRyRnV0SDQ>`__
        * Homework #3 -- **due on Tuesday, Feb 16, 2016 at 11:55pm US Central** -- Assignment posted at K-State Online
    * - 4. U: Feb 11
-     - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXOGVyYmNSYmFxd00>`__
+     - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B2v9RmdjXXbUT2VYVmZZdGJ2V3M>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/implies>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
        * Exercise
