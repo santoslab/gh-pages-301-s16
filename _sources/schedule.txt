@@ -95,23 +95,26 @@ Schedule
      - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B2v9RmdjXXbUT2VYVmZZdGJ2V3M>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/implies>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
-       * Exercise
+       * Answers to lecture FYTD Exercises:
+
+         * `FYTD #1 Problem #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUWWRsdVRGbWh1Q1k>`__
+         * `FYTD #1 Problem #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUaVNXeHhoMzItUFE>`__
    * - 5. T: Feb 16
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXLVdyTU9pS3hlMGM>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/negation>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
    * - 5. U: Feb 18
-     - Review 1
-     - * Exercise
-   * - 6. T: Feb 23
-     - **Exam 1**
-     - References
-   * - 6. U: Feb 25
      - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXV2FrdFRzeV84SVk>`__
-         [ examples: 
+         [ examples:
          `scala <https://drive.google.com/open?id=0B3opDhlww1AXNV9FVXhzQjFQb28>`__,
          `python <https://drive.google.com/open?id=0B3opDhlww1AXWGYwU1FpTDhXNUU>`__,
          `java <https://drive.google.com/open?id=0B3opDhlww1AXaWJiSVRvRWpuc00>`__ ]
+     -
+   * - 6. T: Feb 23
+     - * Review 1
+     -
+   * - 6. U: Feb 25
+     - *  **Exam 1**
      -
    * - 7. T: Mar 1
      - * `Sets and Relations <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
