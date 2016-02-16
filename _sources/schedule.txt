@@ -100,7 +100,7 @@ Schedule
          * `FYTD #1 Problem #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUWWRsdVRGbWh1Q1k>`__
          * `FYTD #1 Problem #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUaVNXeHhoMzItUFE>`__
    * - 5. T: Feb 16
-     - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXLVdyTU9pS3hlMGM>`__
+     - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B2v9RmdjXXbUdXFLQkFDUWpvTXc>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/negation>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
    * - 5. U: Feb 18
