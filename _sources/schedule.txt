@@ -31,7 +31,7 @@ Schedule
      - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__
        * Study Guide: `Module--Intro-01-Study-Guide.txt <https://drive.google.com/open?id=0B2v9RmdjXXbULVVNV1FoMS1mNUk>`__
    * - 1. U: Jan 21
-     - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B3opDhlww1AXRm80bmZXaFlOdTQ>`__
+     - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B2v9RmdjXXbUTU9SREpyZGF1WVk>`__
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
        * Answers to lecture FYTD Exercises:
 
