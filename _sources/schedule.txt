@@ -103,7 +103,15 @@ Schedule
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B2v9RmdjXXbUdXFLQkFDUWpvTXc>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/negation>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
+       * Answers to lecture FYTD Exercises:
+
+         * `FYTD #1 Problem #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUNl9ydEtWOXNQVVU>`__
+         * `FYTD #1 Problem #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUdWpEWlplX0ZTSzg>`__
+         * `FYTD #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUV2ZKVm80ZFNQRFE>`__
+         * `FYTD #3 Problem #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUYUZHUEhOZ01nVGs>`__
+         * `FYTD #3 Problem #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUMFpwMDlxRDV3VDg>`__
        * Lecture Recording: `NatDed-Negation--part-c.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUZXctZE5KVmJWSUE>`__
+       * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
    * - 5. U: Feb 18
      - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXV2FrdFRzeV84SVk>`__
          [ examples:
