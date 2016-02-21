@@ -110,7 +110,7 @@ Schedule
          * `FYTD #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUV2ZKVm80ZFNQRFE>`__
          * `FYTD #3 Problem #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUYUZHUEhOZ01nVGs>`__
          * `FYTD #3 Problem #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUMFpwMDlxRDV3VDg>`__
-       * Lecture Recording: `NatDed-Negation--part-c.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUZXctZE5KVmJWSUE>`__
+       * Lecture Recording: `NatDed-Negation--part-b.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUb2tfRDI1YWEyOW8>`__, `NatDed-Negation--part-c.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUZXctZE5KVmJWSUE>`__
        * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
    * - 5. U: Feb 18
      - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXV2FrdFRzeV84SVk>`__
