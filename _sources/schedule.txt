@@ -129,9 +129,8 @@ Schedule
      - * `Sets and Relations <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
      - * Reading: `Logic in Action: Appendix A. Sets, Relations and Functions <https://drive.google.com/open?id=0B3opDhlww1AXOEFJajZYYW9GTlU>`__
        * Answers to lecture FYTD Exercises:
-
-         * `FYTD (all) <https://drive.google.com/open?id=0B2v9RmdjXXbUMU15U3V5QVRpLWc>`__
-       * Lecture Recording: `Sets-and-Relations.mov (complete lecture) <https://drive.google.com/open?id=0B2v9RmdjXXbUcGxfM3NiQ0FBeDQ>`__
+          * `FYTD (all) <https://drive.google.com/open?id=0B2v9RmdjXXbUMU15U3V5QVRpLWc>`__
+       * Lecture Recording: `Sets-and-Relations.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUcGxfM3NiQ0FBeDQ>`__, `Composition-and-Closure.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUdXJQUnFmZ3JNVE0>`__
    * - 7. U: Mar 3
      - * `Sets and Relations (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
      - * Exercise
