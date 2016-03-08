@@ -135,12 +135,12 @@ Schedule
      - * `Sets and Relations (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
      - * Exercise
    * - 8. T: Mar 8
-     - * `Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXY1phU1dOQ0hEWHM>`__
+     - * `Predicate Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUWXo3dU9KX29pakE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/predicate>`__,
          `z3 <https://drive.google.com/open?id=0B3opDhlww1AXZnFLTXlrcHgyQ0U>`__ ]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/>`__ (up to Section 8.2)
    * - 8. U: Mar 10
-     - * `Predicate Logic (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXY1phU1dOQ0hEWHM>`__
+     - * `Predicate Logic (Continued) <https://drive.google.com/open?id=0B2v9RmdjXXbUWXo3dU9KX29pakE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/predicate>`__,
          `z3 <https://drive.google.com/open?id=0B3opDhlww1AXZnFLTXlrcHgyQ0U>`__ ]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/>`__ (up to Section 8.2)
