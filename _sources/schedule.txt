@@ -148,29 +148,26 @@ Schedule
      -
      -
    * - 9. T: Mar 22
-     - * `Introduction to Alloy <https://drive.google.com/open?id=0B3opDhlww1AXQzFhMFVpazBiemc>`__
-         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXMENPbUpIZEt5amM>`__ ]
-     - * Exercise
-   * - 9. U: Mar 24
-     - * `Introduction to Alloy (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXQzFhMFVpazBiemc>`__
-         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXMENPbUpIZEt5amM>`__ ]
-       * `Alloy -- Structures and Relations <https://drive.google.com/open?id=0B3opDhlww1AXSWZJMXZ3N2Yxem8>`__
+     - * `Alloy -- Structures and Relations <https://drive.google.com/open?id=0B3opDhlww1AXSWZJMXZ3N2Yxem8>`__
          [ `example <https://drive.google.com/open?id=0B3opDhlww1AXM0k2V1o0WHAxOVE>`__ ]
        * `Alloy -- Relations and Operations <https://drive.google.com/open?id=0B3opDhlww1AXTHRPM1QzVl9tb2c>`__
          [ `example <https://drive.google.com/open?id=0B3opDhlww1AXWDl4YjNrTnZsdTg>`__ ]
+     - * Exercise
+   * - 9. U: Mar 24
+     - * `Alloy -- Relations and Operations (continued) <https://drive.google.com/open?id=0B3opDhlww1AXTHRPM1QzVl9tb2c>`__
+         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXWDl4YjNrTnZsdTg>`__ ]
+       * `Alloy -- Logical Constraints <https://drive.google.com/open?id=0B3opDhlww1AXU0xxNjktMHR4aWM>`__
+         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXR21XRnpnbFI4cVE>`__ ]
      - * Reading: (to be announced)
    * - 10. T: Mar 29
-     - * `Alloy -- Relations and Operations (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXTHRPM1QzVl9tb2c>`__
-         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXWDl4YjNrTnZsdTg>`__,
-         `tic-tac-toe <https://drive.google.com/open?id=0B3opDhlww1AXQkp1WDdlX0dhbnM>`__ ]
+     - * `Alloy -- Logical Constraints (continued) <https://drive.google.com/open?id=0B3opDhlww1AXU0xxNjktMHR4aWM>`__
+         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXR21XRnpnbFI4cVE>`__ ]
      - * Reading: (to be announced)
    * - 10. U: Mar 31
-     - * `Alloy -- Logical Constraints <https://drive.google.com/open?id=0B3opDhlww1AXU0xxNjktMHR4aWM>`__
-         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXR21XRnpnbFI4cVE>`__,
-         `tic-tac-toe (continued) <https://drive.google.com/open?id=0B3opDhlww1AXQkp1WDdlX0dhbnM>`__ ]
+     - * Alloy -- Example system
      - * `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
    * - 11. T: Apr 5
-     - * `Alloy -- Example: Tic-Tac-Toe (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXQkp1WDdlX0dhbnM>`__
+     - * Alloy -- Example system
      - * Reading: (to be announced)
    * - 11. U: Apr 7
      - * Review 2
