@@ -164,25 +164,26 @@ Schedule
          [ `example <https://drive.google.com/open?id=0B3opDhlww1AXR21XRnpnbFI4cVE>`__ ]
      - * Reading: (to be announced)
    * - 10. U: Mar 31
-     - * Alloy -- Example system
-     - * `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
+     - * Alloy -- Airport Ground Control System
+     - * [Dr. Hatcliff traveling, NO IN-CLASS LECTURE, Video Lecture]
+       * `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
    * - 11. T: Apr 5
-     - * Alloy -- Example system
-     - * Reading: (to be announced)
+     - * Alloy -- Medical Application Platform System
+     - *
    * - 11. U: Apr 7
-     - * Review 2
-     - * Exercise
+     - * Alloy -- Medical Application Platform System
+     - *
    * - 12. T: Apr 12
      - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXMWpjQ0NWc2xQOG8>`__
-     - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/>`__
+     - * [Dr. Hatcliff traveling, NO IN-CLASS LECTURE, Video Lecture]
+       * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/>`__
    * - 12. U: Apr 14
-     - **Exam 2**
-     - References
-   * - 13. T: Apr 19
      - * `Programming Logic for Assignment Statements <https://drive.google.com/open?id=0B3opDhlww1AXUXBLSlhkY1FyVFk>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/>`__ (up to Section 4.1)
-       * Tutorial: `Floyd-Hoare Program Logic Proof Checker <https://drive.google.com/open?id=0B3opDhlww1AXSHRQcHowTU5EN0U>`__
+   * - 13. T: Apr 19
+     - * **Exam 2**
+     -
    * - 13. U: Apr 21
      - * `Programming Logic for Assignment Statements (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXUXBLSlhkY1FyVFk>`__
        * `Programming Logic for Conditionals <https://drive.google.com/open?id=0B3opDhlww1AXclRaZng0RDRpWnM>`__
