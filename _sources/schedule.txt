@@ -168,8 +168,8 @@ Schedule
      - * [Dr. Hatcliff traveling, NO IN-CLASS LECTURE, Video Lecture]
        * `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
    * - 11. T: Apr 5
-     - * `Representing Quantifiers in Java <https://drive.google.com/open?id=0B2v9RmdjXXbUdWZ1RHVfVFY2SmM>`__
-          [ `example <https://drive.google.com/open?id=0B2v9RmdjXXbUTGtKWEk5Qi00ZGM>`__ ]
+     - * `Representing Quantifiers in Java <https://drive.google.com/open?id=0B2v9RmdjXXbUQmVTdUVDaDNTY28>`__
+          [ `example <https://drive.google.com/open?id=0B2v9RmdjXXbUZU9CZ1N1aHU3NUk>`__ ]
      - *
    * - 11. U: Apr 7
      - * Alloy -- Medical Application Platform System
