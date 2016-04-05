@@ -170,6 +170,7 @@ Schedule
    * - 11. T: Apr 5
      - * `Representing Quantifiers in Java <https://drive.google.com/open?id=0B2v9RmdjXXbUQmVTdUVDaDNTY28>`__
           [ `example <https://drive.google.com/open?id=0B2v9RmdjXXbUZU9CZ1N1aHU3NUk>`__ ]
+       * `Quantification Concepts illustrated in Alloy <https://drive.google.com/open?id=0B2v9RmdjXXbUaUxuZnNGelJJVHM>`__
      - *
    * - 11. U: Apr 7
      - * Alloy -- Medical Application Platform System
