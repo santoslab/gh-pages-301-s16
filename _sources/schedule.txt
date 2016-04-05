@@ -152,7 +152,7 @@ Schedule
          [ `example <https://drive.google.com/open?id=0B3opDhlww1AXM0k2V1o0WHAxOVE>`__ ]
        * `Alloy -- Relations and Operations <https://drive.google.com/open?id=0B3opDhlww1AXTHRPM1QzVl9tb2c>`__
          [ `example <https://drive.google.com/open?id=0B3opDhlww1AXWDl4YjNrTnZsdTg>`__ ]
-     - * Exercise
+     - * `Mapping Alloy to Java -- a possible approach <https://drive.google.com/open?id=0B2v9RmdjXXbUbExHQTVkaHoxTzA>`__
    * - 9. U: Mar 24
      - * `Alloy -- Relations and Operations (continued) <https://drive.google.com/open?id=0B3opDhlww1AXTHRPM1QzVl9tb2c>`__
          [ `example <https://drive.google.com/open?id=0B3opDhlww1AXWDl4YjNrTnZsdTg>`__ ]
