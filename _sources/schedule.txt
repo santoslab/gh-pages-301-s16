@@ -173,7 +173,8 @@ Schedule
        * `Quantification Concepts illustrated in Alloy <https://drive.google.com/open?id=0B2v9RmdjXXbUaUxuZnNGelJJVHM>`__
      - *
    * - 11. U: Apr 7
-     - * Alloy -- Medical Application Platform System
+     - * Exam 2 Review
+       * Alloy -- Medical Application Platform System (Homework Overview)
      - *
    * - 12. T: Apr 12
      - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXMWpjQ0NWc2xQOG8>`__
