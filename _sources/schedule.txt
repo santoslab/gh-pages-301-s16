@@ -177,9 +177,11 @@ Schedule
        * Alloy -- Medical Application Platform System (Homework Overview)
      - *
    * - 12. T: Apr 12
-     - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXMWpjQ0NWc2xQOG8>`__
+     - * `Circuits to Programs <https://drive.google.com/open?id=0B2v9RmdjXXbUbWF1bHJkWlk1MWc>`__, `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXMWpjQ0NWc2xQOG8>`__
      - * [Dr. Hatcliff traveling, NO IN-CLASS LECTURE, Video Lecture]
        * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/>`__
+       * Lecture Video: `ProgLogic--00-Circuits-to-Programs.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUR1RUT2tGVk9VNTg>`__,
+                        `ProgLogic--00-Algebra.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUM2dVQmVSTUFwcXc>`__
    * - 12. U: Apr 14
      - * `Programming Logic for Assignment Statements <https://drive.google.com/open?id=0B3opDhlww1AXUXBLSlhkY1FyVFk>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
