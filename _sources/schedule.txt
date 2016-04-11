@@ -165,6 +165,7 @@ Schedule
      - * Reading: (to be announced)
    * - 10. U: Mar 31
      - * `Alloy -- Airport Ground Control System <https://drive.google.com/open?id=0B2v9RmdjXXbUbmxLWE9ma1d2OWc>`__
+         [ `example <https://drive.google.com/open?id=0B2v9RmdjXXbURVIwU2Q2WTVPajg>`__ ]
      - * [Dr. Hatcliff traveling, NO IN-CLASS LECTURE, Video Lecture]
        * Lecture Recording: `Alloy--Airport-Example-part-a.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUSXVUWFd0Nzkzejg>`__,
                              `Alloy--Airport-Example-part-b.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUc0Y0THUzTlVIcTg>`__
