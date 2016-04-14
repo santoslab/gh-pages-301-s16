@@ -190,18 +190,18 @@ Schedule
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/>`__ (up to Section 4.1)
    * - 13. T: Apr 19
-     - * **Exam 2**
-     -
-   * - 13. U: Apr 21
      - * `Programming Logic for Assignment Statements (Continued) <https://drive.google.com/open?id=0B2v9RmdjXXbUS0ZCOFlFdFFDRms>`__
        * `Programming Logic for Conditionals <https://drive.google.com/open?id=0B3opDhlww1AXclRaZng0RDRpWnM>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
        * `Programming Logic in Real World Applications <https://drive.google.com/open?id=0B3opDhlww1AXdHhlVFZ1M2lVaFU>`__
      - * Reading: `Programming Logic for Assignments and Conditionals (Section 4.2) <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__
-   * - 14. T: Apr 26
+   * - 13. U: Apr 21
      - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXa1QxWktNa1cwNW8>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/>`__
+   * - 14. T: Apr 26
+     - * **Exam 2**
+     -
    * - 14. U: Apr 28
      - * `Functions and Procedures (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXa1QxWktNa1cwNW8>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
