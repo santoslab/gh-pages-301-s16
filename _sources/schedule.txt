@@ -129,7 +129,8 @@ Schedule
      - * `Sets and Relations <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
      - * Reading: `Logic in Action: Appendix A. Sets, Relations and Functions <https://drive.google.com/open?id=0B3opDhlww1AXOEFJajZYYW9GTlU>`__
        * Answers to lecture FYTD Exercises:
-          * `FYTD (all) <https://drive.google.com/open?id=0B2v9RmdjXXbUMU15U3V5QVRpLWc>`__
+
+         * `FYTD (all) <https://drive.google.com/open?id=0B2v9RmdjXXbUMU15U3V5QVRpLWc>`__
        * Lecture Recording: `Sets-and-Relations.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUcGxfM3NiQ0FBeDQ>`__, `Composition-and-Closure.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUdXJQUnFmZ3JNVE0>`__
    * - 7. U: Mar 3
      - * `Sets and Relations (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
@@ -198,14 +199,14 @@ Schedule
        * Lecture Video: `ProgLogic--01-Assignment-part-b.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUQ2tMWEpoTjlEeXc>`__,
                         `ProgLogic--02-Conditionals.mov <https://drive.google.com/open?id=0B2v9RmdjXXbUcUYtcXl2OEpTNlU>`__
    * - 13. U: Apr 21
-     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXa1QxWktNa1cwNW8>`__
+     - * `Functions and Procedures <https://drive.google.com/open?id=0B2v9RmdjXXbUVEVwTFlPckRXVDA>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/>`__
    * - 14. T: Apr 26
      - * **Exam 2**
      -
    * - 14. U: Apr 28
-     - * `Functions and Procedures (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXa1QxWktNa1cwNW8>`__
+     - * `Functions and Procedures (Continued) <https://drive.google.com/open?id=0B2v9RmdjXXbUVEVwTFlPckRXVDA>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
        * `Functions to Loops <https://drive.google.com/open?id=0B3opDhlww1AXMnhzYWkwVHlJems>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
