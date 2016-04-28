@@ -208,6 +208,7 @@ Schedule
    * - 14. U: Apr 28
      - * `Functions and Procedures (Continued) <https://drive.google.com/open?id=0B2v9RmdjXXbUVEVwTFlPckRXVDA>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
+       * `Global/Class Invariants <https://drive.google.com/open?id=0B2v9RmdjXXbUc3R0ZDNrVU56dk0>`__
        * `Functions to Loops <https://drive.google.com/open?id=0B3opDhlww1AXMnhzYWkwVHlJems>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
      - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/>`__
