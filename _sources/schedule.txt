@@ -209,14 +209,12 @@ Schedule
      - * `Functions and Procedures (Continued) <https://drive.google.com/open?id=0B2v9RmdjXXbUVEVwTFlPckRXVDA>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
        * `Global/Class Invariants <https://drive.google.com/open?id=0B2v9RmdjXXbUc3R0ZDNrVU56dk0>`__
-       * `Functions to Loops <https://drive.google.com/open?id=0B3opDhlww1AXMnhzYWkwVHlJems>`__
-         [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
      - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/>`__
    * - 15. T: May 3
-     - * Program Logic Examples
+     - * `Functions to Loops <https://drive.google.com/open?id=0B2v9RmdjXXbUeW83STRvZXNkRU0>`__
          [ `examples <https://github.com/sireum/v3-logika-examples/tree/master/src/programming>`__ ]
-       * `Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html#an-introduction-to-mathematical-induction>`__
      - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/>`__
+       * Class Exercise: Mult procedure `starting file <https://drive.google.com/open?id=0B2v9RmdjXXbUTm0zM2pBUy1Penc>`__
    * - 15. U: May 5
      - Review 3
      -
