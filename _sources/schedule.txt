@@ -217,7 +217,8 @@ Schedule
        * Class Exercise: Mult procedure `starting file <https://drive.google.com/open?id=0B2v9RmdjXXbUTm0zM2pBUy1Penc>`__
    * - 15. U: May 5
      - Review 3
-     -
+     - * `Program Logic Concept Summary <https://drive.google.com/open?id=0B2v9RmdjXXbUVmpOY1NUYmdRVHM>`__
+       * `Final Exam Study Topics <https://drive.google.com/open?id=0B2v9RmdjXXbUSHJOelZRdUw2X3c>`__
    * - 16. U: May 12
      - **Final Exam Time: 9:40am - 11:30am** (`K-State Final Exam Schedule <http://courses.k-state.edu/spring2016/information/xam.html>`__)
      - References
